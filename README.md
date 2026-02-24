@@ -92,17 +92,16 @@ spring.datasource.password=your_password
 
 ---
 
-## Project Architecture
+## 🧠 Project Architecture
 
-controller  → handles HTTP requests
-service     → contains business logic
-repository  → handles database operations
-security    → Spring Security configuration
+controller  → handles HTTP requests  
+service     → contains business logic  
+repository  → handles database operations  
+security    → Spring Security configuration  
 model       → entity classes
 
 ---
-
-## How to Run
+## ▶️ How to Run
 
 1. Clone the repository
 2. Configure MySQL database
@@ -111,6 +110,8 @@ model       → entity classes
 
 ---
 
-Author
+## 👤 Author
 Pranav Maheshwari
 (Java & Spring Boot Developer)
+
+---
